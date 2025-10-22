@@ -5,7 +5,8 @@ import "./TaskForm.css";
 const TaskForm = () => {
   const [taskData, setTaskData] = useState({
     task: "",
-    status: "todo"
+    status: "todo",
+    tags: []
   })
   const handleChange = (e) => {
     const { name, value } = e.target.name
@@ -21,6 +22,27 @@ const TaskForm = () => {
     e.preventDefault();
   }
 
+  const checkTag = (tag) => {
+    return taskData.tags.some(item => item === tag)
+  }
+
+  const selectTag = (tag) => {
+    if (taskData.tags.some(item => item === tag)) {
+      const filteredTags = taskData.tags.filter(item => item !== tag)
+      setTaskData(prev => {
+        return {
+          ...prev, tags: filteredTags
+        }
+      })
+    } else {
+      setTaskData(prev => {
+        return {
+          ...prev, tags: [...prev.tags, tag]
+        }
+      })
+    }
+  }
+
   return (
     <header className="app_header">
       <form onClick={handleSubmit}>
@@ -33,12 +55,12 @@ const TaskForm = () => {
         />
         <div className="task_form_button_line">
           <div>
-            <Tag tagName="HTML" />
-            <Tag tagName="CSS" />
-            <Tag tagName="JavaScript" />
-            <Tag tagName="React" />
-            <Tag tagName="Python" />
-            <Tag tagName="Java" />
+            <Tag tagName="HTML" selectTag={selectTag} selected={checkTag("HTML")}/>
+            <Tag tagName="CSS" selectTag={selectTag} selected={checkTag("CSS")}/>
+            <Tag tagName="JavaScript" selectTag={selectTag} selected={checkTag("JavaScript")}/>
+            <Tag tagName="React" selectTag={selectTag} selected={checkTag("React")}/>
+            <Tag tagName="Python" selectTag={selectTag} selected={checkTag("Python")}/>
+            <Tag tagName="Java" selectTag={selectTag} selected={checkTag("Java")}/>
           </div>
 
           <div>
