@@ -79,19 +79,14 @@ const TaskForm = ({ setTasks }) => {
               selected={checkTag("JavaScript")}
             />
             <Tag
-              tagName="React"
-              selectTag={selectTag}
-              selected={checkTag("React")}
-            />
-            <Tag
               tagName="Python"
               selectTag={selectTag}
-              selected={checkTag("React")}
+              selected={checkTag("Python")}
             />
             <Tag
               tagName="Java"
               selectTag={selectTag}
-              selected={checkTag("React")}
+              selected={checkTag("Java")}
             />
           </div>
 
