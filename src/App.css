@@ -1,3 +1,8 @@
+body {
+  background-color: #1B1A17;
+  color: #F0E3CA;
+}
+
 .app {
   display: grid;
   grid-template-rows: 150px auto;

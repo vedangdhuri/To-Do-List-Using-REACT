@@ -29,7 +29,9 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  color: #F0E3CA;
 }
+
 
 .task_status {
   font-size: 16px;
