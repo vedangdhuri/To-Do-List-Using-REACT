@@ -75,5 +75,5 @@ src/
   <li>PWA offline support</li>
 </ul>
 
-<h2 align="center">📜 License</h2>
+<h2 align="left">📜 License</h2>
 <p>Licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
