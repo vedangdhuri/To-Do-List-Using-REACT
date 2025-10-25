@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/github/last-commit/vedangdhuri/To-Do-List-Using-REACT?style=flat&logo=git&logoColor=white&color=0080ff" alt=""/>
     <img src="https://img.shields.io/github/languages/top/vedangdhuri/To-Do-List-Using-REACT?style=flat&color=0080ff" alt=""/>
     <img src="https://img.shields.io/github/languages/count/vedangdhuri/To-Do-List-Using-REACT?style=flat&color=0080ff" alt=""/>
+    <a href=""><img src="https://img.shields.io/badge/Visit_Site-To_Do_List_Using_React-blue?style=flat&color=0080ff" alt=""/></a>
 </div>
 <h2 align="center">Transform Tasks into Triumphs with Seamless Simplicity</h2>
 <div align="center">
@@ -13,7 +14,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="" />
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="" />
     <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="" />
-    <a href=""><img src="https://img.shields.io/badge/Visit_Site-To_Do_List_Using_React-blue" alt=""/></a>
 </div>
 <h2 align="left">✅ Overview</h2>
 <p>To-Do List Using React is a sleek, modular task management application designed to help developers organize tasks efficiently with a clean, scalable architecture. Built with modern tools like Vite and React, it emphasizes rapid development and maintainability.</p>
