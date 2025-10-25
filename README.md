@@ -29,6 +29,7 @@
 </ul>
 
 <h2 align="left">⚙️ Installation & Setup</h2>
+
 1. 1️⃣ Clone the repository
     <pre><code>git clone https://github.com/yourusername/to-do-list-using-react.git</code></pre>
     <pre><code>cd to-do-list-using-react</code></pre>
