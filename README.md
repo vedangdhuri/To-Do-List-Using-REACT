@@ -28,4 +28,3 @@
     <li><strong>🌟 Clear Architecture:</strong> Well-defined component interactions for easy extension and customization.</li>
 </ul>
 
-
