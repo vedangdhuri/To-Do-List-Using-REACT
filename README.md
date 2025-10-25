@@ -21,7 +21,7 @@
 
 <h5 align="left">Why To-Do-List-Using-REACT?</h5>
 <p>This project simplifies task organization with intuitive categorization and dynamic filtering. The core features include:</p>
-<ul align="center">
+<ul align="left">
     <li><strong>🧩 Modular Components:</strong> Reusable task cards, tags, and columns for flexible UI management.</li>
     <li><strong>🚀 Fast Development Setup:</strong> Powered by Vite for quick builds and hot-reloading.</li>
     <li><strong>🔍 Code Quality & Standards:</strong> Enforced through ESLint configuration, ensuring consistent, maintainable code.</li>
