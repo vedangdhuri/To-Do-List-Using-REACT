@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/languages/count/vedangdhuri/To-Do-List-Using-REACT?style=flat&color=0080ff" alt=""/>
     <a href="https://to-do-list-using-react-vd.netlify.app/"><img src="https://img.shields.io/badge/Visit_Site-To_Do_List_Using_React-blue?style=flat&color=0080ff" alt=""/></a>
 </div>
-<h2 align="center">Transform Tasks into Triumphs with Seamless Simplicity</h2>
+<h2 align="center">Built with the tools and technologies:</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="" />
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="" />
