@@ -76,5 +76,5 @@ src/
   <li>PWA offline support</li>
 </ul>
 
-<h2 align="left">📜 License</h2>
+<h2 align="left">📜 License</h2> 
 <p>Licensed under the <a href="https://github.com/vedangdhuri/To-Do-List-Using-REACT/blob/main/LICENSE" target="_blank">MIT License</a>.</p>
