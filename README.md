@@ -4,15 +4,15 @@
     <img src="https://img.shields.io/github/last-commit/vedangdhuri/To-Do-List-Using-REACT?style=flat&logo=git&logoColor=white&color=0080ff" alt=""/>
     <img src="https://img.shields.io/github/languages/top/vedangdhuri/To-Do-List-Using-REACT?style=flat&color=0080ff" alt=""/>
     <img src="https://img.shields.io/github/languages/count/vedangdhuri/To-Do-List-Using-REACT?style=flat&color=0080ff" alt=""/>
+    <a href="https://to-do-list-using-react-vd.netlify.app/"><img src="https://img.shields.io/badge/Visit_Site-To_Do_List_Using_React-blue?style=flat&color=0080ff" alt=""/></a>
 </div>
-<h2 align="center">Transform Tasks into Triumphs with Seamless Simplicity</h2>
+<h2 align="center">Built with the tools and technologies:</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="" />
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="" />
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="" />
     <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="" />
 </div>
 <h2 align="left">✅ Overview</h2>
@@ -29,6 +29,7 @@
 </ul>
 
 <h2 align="left">⚙️ Installation & Setup</h2>
+
 1. 1️⃣ Clone the repository
     <pre><code>git clone https://github.com/yourusername/to-do-list-using-react.git</code></pre>
     <pre><code>cd to-do-list-using-react</code></pre>
